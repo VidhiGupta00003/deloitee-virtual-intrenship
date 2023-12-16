@@ -1,4 +1,4 @@
-# Deloitte Forage
+# Deloitte 
 
 This repository contains my submission for the Deloitte STEM Virtual Program. In this program, students are asked to help Daikibo Industrials (a global leader in manufacturing of heavy machinery) with a variety of problems that they are facing.
 
